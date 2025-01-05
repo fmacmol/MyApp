@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "102189252440",
+    "project_id": "jc-mylogin",
+    "storage_bucket": "jc-mylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102189252440:android:74686a24faa84863d86f2d",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102189252440-fjjeipgkeo7c2869gqdffq4lk77jq0rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mylogin",
+            "certificate_hash": "e4cbfb5ef6269d28dde6a8cc7244f288959b5b1d"
+          }
+        },
+        {
+          "client_id": "102189252440-i2b5v33u25544iiispcsq8mn9nm93fm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdOU2e5GBBDBKhweB_FUFmVH61zjAgptU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102189252440-i2b5v33u25544iiispcsq8mn9nm93fm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
