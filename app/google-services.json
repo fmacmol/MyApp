@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91676999411",
+    "project_id": "lista-de-tareas-2025",
+    "storage_bucket": "lista-de-tareas-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91676999411:android:4159780c178d11e067c186",
+        "android_client_info": {
+          "package_name": "com.example.listatarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ_SjBoud3Skfn9RBPASfQbbef8R-d0vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
